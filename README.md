@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/NullNicole">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel2904&theme=radical&hide=glsl,python" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullNicole&theme=radical&hide=glsl,python" />
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=NullNicole&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
 
